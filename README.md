@@ -6,3 +6,4 @@ Scraping IELTS Bro's Speaking Topic Bank
 #Prerequisites:
 ## Beautiful Soup -> sudo pip install beautifulsoup4 
 ## Requests -> sudo pip install requests
+## lxml -> sudo pip install lxml
